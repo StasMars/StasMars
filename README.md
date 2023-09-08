@@ -4,11 +4,10 @@
 Мои ключевые навыки:
   * Python 3.11
   * Django
-  * Django Rest
   * Git
   * Docker
   * Flask
-  * MySQL
+  * SQLite
   * PostgreSQL
 
 ---
