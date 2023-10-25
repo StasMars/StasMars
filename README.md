@@ -6,9 +6,11 @@
   * Django
   * Git
   * Docker
-  * Flask
   * SQLite
   * PostgreSQL
+  * HTML
+  * CSS
+  * API
 
 ---
 ### Контакты
