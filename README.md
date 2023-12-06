@@ -3,6 +3,7 @@
 
 Мои ключевые навыки:
   * Python 3.11
+  * FastAPI
   * Django
   * Git
   * Docker
