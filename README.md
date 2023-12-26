@@ -17,7 +17,7 @@
 ### Контакты
 [Мой телеграм](https://t.me/stmarusin)
 
-[Моя почта] - stasskywalker@gmail.com
+Моя почта stasskywalker@gmail.com
 
 [Мой VK](https://vk.com/stanislav_marusin)
 
