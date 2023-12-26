@@ -7,10 +7,10 @@
   * Django
   * Git
   * Docker
+  * SQLAlchemy
   * SQLite
   * PostgreSQL
-  * HTML
-  * CSS
+  * HTML, CSS
   * API
 
 ---
