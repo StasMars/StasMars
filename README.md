@@ -13,6 +13,8 @@
   * HTML, CSS
   * API
 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 ---
 ### Контакты📱
 [💬 Telegram](https://t.me/stmarusin)
