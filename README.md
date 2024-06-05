@@ -7,6 +7,7 @@
   * 📫Django
   * 📫Git
   * 📫Docker
+  * 📫Unittest
   * 📫SQLAlchemy
   * 📫SQLite
   * 📫PostgreSQL
