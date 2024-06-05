@@ -17,7 +17,7 @@
 ### Контакты📱
 [💬 Telegram](https://t.me/stmarusin)
 
-stasskywalker@gmail.com
+marussinstas@gmail.com
 
 [💬 VK](https://vk.com/stanislav_marusin)
 
