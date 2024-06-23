@@ -2,17 +2,17 @@
 Меня зовут **Марусин Стас**, я занимаюсь веб разработкой. Специализируюсь на Backend разработке.💻
 
 Мои ключевые навыки:
-  * 📫Python 3.11 
-  * 📫FastAPI
-  * 📫Django
-  * 📫Git
-  * 📫Docker
-  * 📫Unittest
-  * 📫SQLAlchemy
-  * 📫SQLite
-  * 📫PostgreSQL
-  * 📫HTML, CSS
-  * 📫REST API
+  * 🟢Python 3.11 
+  * 🟢FastAPI
+  * 🟢Django
+  * 🟢Git
+  * 🟢Docker
+  * 🟢Unittest
+  * 🟢SQLAlchemy
+  * 🟢SQLite
+  * 🟢PostgreSQL
+  * 🟢HTML, CSS
+  * 🟢REST API
 
 ---
 ### Контакты📱
