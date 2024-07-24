@@ -13,6 +13,8 @@
   * 🟢PostgreSQL
   * 🟢HTML, CSS
   * 🟢REST API
+  * 🟢re
+  * 🟢Xpath
 
 ---
 ### Контакты📱
