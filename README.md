@@ -6,6 +6,7 @@
   * 🟢FastAPI
   * 🟢Django
   * 🟢Git
+  * 🟢Pandas
   * 🟢Docker
   * 🟢Unittest
   * 🟢SQLAlchemy
