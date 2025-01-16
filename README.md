@@ -21,9 +21,9 @@
 
 ---
 ### Контакты📱
-[💬 Telegram](https://t.me/stmarusin)
+[Telegram](https://t.me/stmarusin)
 
 marussinstas@gmail.com
 
-[💬 VK](https://vk.com/stanislav_marusin)
+[VK](https://vk.com/stanislav_marusin)
 
