@@ -8,6 +8,7 @@
   * 🟢Git
   * 🟢Pandas
   * 🟢Docker
+  * 🟢Linux пользователь
   * 🟢Unittest
   * 🟢SQLAlchemy
   * 🟢SQLite
